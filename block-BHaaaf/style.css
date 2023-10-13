@@ -1,12 +1,12 @@
 body{
-    background-color: white;
+    background-color: red;
 }
 
 #header{
-    color:blue;
+    color:white;
     font-size: 30px;
 }
 p{
-    color:red;
+    color:green;
     font-size: 30px;
 }
